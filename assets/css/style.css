@@ -413,7 +413,7 @@ body {
 \*-----------------------------------*/
 
 .hero {
-  padding-block-start: 170px;
+  padding-block-start: 100px;
   text-align: center;
 }
 
@@ -1065,7 +1065,7 @@ body {
    * HERO
    */
 
-  .hero { padding-block-start: 250px; }
+  .hero { padding-block-start: 150px; }
 
   .hero-banner-bg { transform: scale(1.2); }
 
