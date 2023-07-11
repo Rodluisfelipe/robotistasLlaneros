@@ -327,7 +327,7 @@ body {
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
-
+.header .logo img { width: 130px; }
 .header .btn { display: none; }
 
 .header {
