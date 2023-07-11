@@ -8,8 +8,8 @@ header{
     background-size: cover;
 }
 #logoGlobantHome{
-    width: 149px;
-    height: 25px;
+    width: 40px;
+    height: 40px;
     margin-left: 20px;
 }
 
@@ -17,7 +17,7 @@ header{
 
 /* nav */
 nav {
-    background-color: #fff;
+    background-color: #000000;
     position: fixed;
     height: 59px;
     width: 100%;
